@@ -1,0 +1,6 @@
+aiohttp>=3.9
+requests>=2.31
+pywin32>=306
+keyring>=24.3
+pyinstaller>=6.3
+pytest>=8.2
